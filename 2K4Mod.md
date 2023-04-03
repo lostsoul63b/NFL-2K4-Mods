@@ -16,12 +16,7 @@ In some ways, yes, in others no. RateSports personally created thousands of text
 ### How does this perform on Xbox Series X|S?
 Extremely, extremely well. Crashing is much less frequent, so this is 100% the preferred game for console players.
 
------
-
-## Download
-| Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | N/A | April 3, 2023 | [info](NFL 4K24 Release Zero, the newest mod for ESPN NFL Football, is now available to download for Xbox Series X|S! PC update is being compiled and will be available soon.
+NFL 4K24 Release Zero, the newest mod for ESPN NFL Football, is now available to download for Xbox Series X|S! PC update is being compiled and will be available soon.
 
 This mod has been months and months of heads down work and brings an entirely new level of authenticity. The size of this is more than double that of NFL 4K23 and you’ll see why when you boot up. 
 
@@ -39,8 +34,15 @@ This is ENTIRELY because of @GillBoldberg and his hard work. This dude is a cham
 
 As always, shoutout to @LostsouL and @CujoMatty for being the best teammates here. 
 
-We have more exciting stuff to share in the future, but enjoy this new release!) | [Add-on](https://www.mediafire.com/file_premium/a87t19zw0i6gr2q/NFL_4K24_R0_Game_Mod_Add-on.zip/file) | [Tutorial]() |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | AVX2 | April 3, 2023  |  | [Standalone](https://www.mediafire.com/file_premium/yyhcuxby7uhp9ny/NFL_2K24_Standalone_Installer.zip/file) | [Tutorial]() |
+We have more exciting stuff to share in the future, but enjoy this new release!
+
+-----
+
+## Download
+| Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | N/A | April 3, 2023 | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR0.txt) | [Add-on](https://www.mediafire.com/file_premium/a87t19zw0i6gr2q/NFL_4K24_R0_Game_Mod_Add-on.zip/file) | [Tutorial]() |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | AVX2 | April 3, 2023  | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR0.txt) | [Standalone](https://www.mediafire.com/file_premium/yyhcuxby7uhp9ny/NFL_2K24_Standalone_Installer.zip/file) | [Tutorial]() |
 
 ---------
 ## Available JSGME MODS
