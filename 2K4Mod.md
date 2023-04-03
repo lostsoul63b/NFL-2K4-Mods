@@ -25,14 +25,14 @@ We have more exciting stuff to share in the future, but enjoy this new release!
 
 -----
 
-## Download
+## Downloads
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | N/A | April 3, 2023 | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR0.txt) | [Add-on](https://www.mediafire.com/file_premium/a87t19zw0i6gr2q/NFL_4K24_R0_Game_Mod_Add-on.zip/file) | [Tutorial]() |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | AVX2 | April 3, 2023  | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR0.txt) | [Standalone](https://www.mediafire.com/file_premium/yyhcuxby7uhp9ny/NFL_2K24_Standalone_Installer.zip/file) | [Tutorial]() |
 
 ---------
-## Available JSGME MODS
+## JSGME MODS
 | Platform | Package Info | Download | Tutorial |
 | :------------- | :------------- | :------------- | :------------- |
 
