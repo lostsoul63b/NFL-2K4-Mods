@@ -3,7 +3,7 @@
 -----
 ![e46eb1d8fb7e0e90-e435396dd7619a43-00006653](https://user-images.githubusercontent.com/69597675/229540947-c9168c91-49e8-4570-82c7-507ca868632d.png)
 
-### NFL 4K24 Release Zero, the newest mod for ESPN NFL Football, is now available to download for Xbox Series X|S! PC update is being compiled and will be available soon.
+### NFL 4K24 Release Zero, the newest Mod for ESPN NFL Football, is Available Now for download
 
 This mod has been months and months of heads down work and brings an entirely new level of authenticity. The size of this is more than double that of NFL 4K23 and you’ll see why when you boot up. 
 
