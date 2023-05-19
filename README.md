@@ -17,7 +17,7 @@ Since 4K23, I’ve improved the uniform template that I use and have applied it 
 I’ve improved as much as I can with texture replacement here, creating 4K24 graphic backgrounds, new team select helmets, 3D uniform previews, improved thumbnails for stadium selection, and have overhauled every font in the game. 
 
 ### Updated Rosters
-This is ENTIRELY because of **GillBoldberg** and his hard work. This dude is a champion and deserves the ultimate recognition. The 4K24 R0 roster included here is his roster. 
+This is ENTIRELY because of **GillBoldberg** and his hard work. This dude is a champion and deserves the ultimate recognition. The 4K24 roster included here is his roster. 
 
 As always, shoutout to **LostsouL** and **CujoMatty** for being the best teammates here. 
 
