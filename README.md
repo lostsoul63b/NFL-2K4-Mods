@@ -1,7 +1,7 @@
 # ESPN NFL Football (NFL 4K24)
 
 -----
-![e46eb1d8fb7e0e90-e435396dd7619a43-00006653](https://user-images.githubusercontent.com/69597675/229540947-c9168c91-49e8-4570-82c7-507ca868632d.png)
+![3be35f337bce6200-b7a67a2579472b72-00006653](https://github.com/lostsoul63b/NFL-2K4-Mods/assets/69597675/d909fbcf-3c4a-4927-b58a-d61d8a7afb32)
 
 ### NFL 4K24 Release Zero, the newest Mod for ESPN NFL Football, is Available Now for download
 
@@ -26,10 +26,13 @@ We have more exciting stuff to share in the future, but enjoy this new release!
 -----
 
 ## Downloads (PC Platform only)
+
+#### Installation Notes
+Single installer will support first time installations as well as patching existing installations.
+
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | N/A | April 3, 2023 | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR0.txt) | [Add-on](https://www.mediafire.com/file_premium/a87t19zw0i6gr2q/NFL_4K24_R0_Game_Mod_Add-on.zip/file) | [Tutorial]() |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | AVX2 | April 3, 2023  | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR0.txt) | [Standalone](https://www.mediafire.com/file_premium/yyhcuxby7uhp9ny/NFL_2K24_Standalone_Installer.zip/file) | [Tutorial]() |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | May 18, 2023  | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR0.txt) | [Installer](https://www.mediafire.com/file_premium/yrlsmhhixfh8hwj/NFL4K24_R1_Setup.zip/file) | Coming Soon |
 
 ---------
 ## JSGME MODS
