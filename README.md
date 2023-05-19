@@ -3,7 +3,7 @@
 -----
 ![3be35f337bce6200-b7a67a2579472b72-00006653](https://github.com/lostsoul63b/NFL-2K4-Mods/assets/69597675/d909fbcf-3c4a-4927-b58a-d61d8a7afb32)
 
-### NFL 4K24 Release Zero, the newest Mod for ESPN NFL Football, is Available Now for download
+### NFL 4K24, the newest Mod for ESPN NFL Football, is Available Now for download
 
 This mod has been months and months of heads down work and brings an entirely new level of authenticity. The size of this is more than double that of NFL 4K23 and you’ll see why when you boot up. 
 
