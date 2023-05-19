@@ -27,8 +27,20 @@ We have more exciting stuff to share in the future, but enjoy this new release!
 
 ## Downloads (PC Platform only)
 
-#### Installation Notes
-Single installer will support first time installations as well as patching existing installations.
+### *Single installer will support first time installations as well as updating existing installations.*
+
+### New Installs
+* Download, extract and run the NFL4K24_R1_Setup.exe
+* Add your PS2 BIOS files (..\NFL 4K24\bios)
+* Add (or map) your 2K4 game disc iso (..\NFL 4K24\iso)
+* Update your graphics settings and other settings
+* Remap your controller
+
+### Update Existing Installs
+* Backup your memcards (..\NFL 4K24\memcards)
+* Backup your PCSX2.ini (..\NFL 4K24\inis)
+
+#### *We recommend backing these up before running the installer to update any existing install.*
 
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
