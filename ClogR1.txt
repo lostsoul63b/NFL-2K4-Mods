@@ -1,1 +1,15 @@
+Here is the rundown of what has changed:
 
+Over 100+ Cyberfaces and Portraits!
+This is easily the most requested feature for the 2K4 mod and I am doing things a tad different than what we have done in the past with 2K5. Portrait assignments are one of the biggest blockers for us to update, so I am rolling with the approach of quarterbacks will have portraits/cyberface as will most star players. Rookies will be getting these but that is in a future update.
+
+Massive shoutout to egb11 and CujoMatty for their cyberface work.
+
+New Field Textures, End Zone Designs, Lighting
+I have gone through all 32 fields and recreated their grass textures, as well as redesigned their end zones from scratch to match their current designs. This applies to all weather conditions as well, so enjoy a significantly elevated level of realism compared to past versions of the 2K4 mod. Also, all of the sky textures have been updated so Day, Afternoon and Night games will look better than ever.
+
+Updated Team Likeness
+The new Cardinals uniforms are in, as well as updates to existing uniform issues that have been called out in bug reporting. From a roster-perspective, give it up once again to our king on this GillBoldberg  for his amazing rosters. Without him, this project would just be a pretty facelift. We've also added the correct coach models for all coaches and updated them so they match their real life counterparts.
+
+Improvements to the UI/Countless Quality of Life Fixes
+I've added improved visibility for controller icons and have fixed hundreds of things (like fonts and other in-game UI). I've also included a 4K24 Settings file that you can load in-game that mirrors what I use when I play.
