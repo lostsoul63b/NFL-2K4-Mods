@@ -31,7 +31,9 @@ We have more exciting stuff to share in the future, but enjoy this new release!
 
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | May 18, 2023  | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR1.txt) | [Installer](https://www.mediafire.com/file_premium/yrlsmhhixfh8hwj/NFL4K24_R1_Setup.zip/file) | Coming Soon |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 | AVX2 | May 19, 2023  | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR1.txt) | [Installer](https://www.mediafire.com/file_premium/yrlsmhhixfh8hwj/NFL4K24_R1_Setup.zip/file) | Coming Soon |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R1 |  | May 23, 2023  | [info](https://github.com/lostsoul63b/NFL-2K4-Mods/blob/main/ClogR1.txt) | [GME Add-on](https://www.mediafire.com/file_premium/dompmzgzn58zjnx/NFL_4K24_R1_Add-on.zip/file) | Coming Soon |
+
 
 ---------
 ## JSGME MODS
