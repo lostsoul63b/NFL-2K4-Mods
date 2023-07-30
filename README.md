@@ -39,6 +39,7 @@ We have more exciting stuff to share in the future, but enjoy this new release!
 ## JSGME MODS
 | Platform | Package Info | Download | Tutorial |
 | :------------- | :------------- | :------------- | :------------- |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | | | |
 
 
 ---------
