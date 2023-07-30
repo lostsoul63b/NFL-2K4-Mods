@@ -32,7 +32,7 @@ We have more exciting stuff to share in the future, but enjoy this new release!
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R2 | AVX2 | July 29, 2023  |  | [Installer](https://www.mediafire.com/file_premium/0as1dpf9y6zk9sr/NFL4K24_R2_Setup.zip/file) | [Tutorial](https://youtu.be/vK9VuRYbSic) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R2 |  | July 29, 2023  |  | [GME Add-on](https://www.mediafire.com/file_premium/i6422y6oao7uvex/NFL4K24_R2_Add-on.zip/file) | [Tutorial](https://youtu.be/vK9VuRYbSic) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R2 | * | July 29, 2023  |  | [GME Add-on](https://www.mediafire.com/file_premium/i6422y6oao7uvex/NFL4K24_R2_Add-on.zip/file) | [Tutorial](https://youtu.be/vK9VuRYbSic) |
 
 
 ---------
